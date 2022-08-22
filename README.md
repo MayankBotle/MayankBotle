@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+ 🌱 I’m currently learning Salesforce Developer/Admin.
+ 🤔 I’m looking for help with Apex language. 
+  💬 Ask me anything.
+  📫 How to reach me: Gmail: mayankbotle@gmail.com
+  ⚡ Fun fact: I was Born in 2001 at mumbai and have completed my graduation in 2022 in Computer science field 
+  
 <!--
 **MayankBotle/MayankBotle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
